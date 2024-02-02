@@ -24,7 +24,7 @@ const EmployeesListItem = (props) => {
                 </button>
 
                 <button type="button"
-                        className="btn-trash btn-sm "
+                        className="btn-trash btn-sm"
                         onClick={ onDelete }
                 >
                     <i className="fas fa-trash"></i>
